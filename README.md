@@ -28,6 +28,10 @@ O software está disponível em formato Desktop (Windows) e WebMobile (Navegador
 *  [Vídeo Tutorial: Instalar e Atualizar (MP4)](https://lavbella.com)
 *  [Vídeo Tutorial: Funcionalidades Estatísticas (MP4)](https://lavbella.com)
 
+*Disclaimer: Esta aplicação é uma ferramenta estatística e numerológica de apoio à decisão. Não garante prémios.
+
+Copyright © 2026 **Lav et Bella**. Todos os direitos reservados.
+Este software, incluindo a sua lógica de processamento e algoritmos híbridos de Estatística e Numerologia, encontra-se protegido por leis de direitos de autor e por **Patente Registada**. É estritamente proibida qualquer reprodução, engenharia reversa, distribuição ou exploração comercial não autorizada.
 ---
 
 ## English
@@ -54,5 +58,10 @@ The software is available for Windows Desktop and WebMobile browsers. You can ac
 *  [Video Tutorial: Install & Update (MP4)](https://lavbella.com)
 *  [Video Tutorial: Statistical Features (MP4)](https://lavbella.com)
 
+*Disclaimer: This application is a statistical and numerological decision-support tool. It does not guarantee winnings.*
+
+Copyright © 2026 **Lav et Bella**. All rights reserved.
+This software, including its processing logic and hybrid Statistical/Numerological algorithms, is protected by copyright laws and a **Registered Patent**. Any unauthorized reproduction, reverse engineering, distribution, or commercial exploitation is strictly prohibited.
+
 ---
-*Disclaimer: Esta aplicação é uma ferramenta estatística e numerológica de apoio à decisão. Não garante prémios. / This application is a statistical and numerological decision-support tool. It does not guarantee winnings.*
+
